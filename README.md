@@ -1,8 +1,8 @@
-# CharGen: Lightning-Fast Chart Generation with React, Vite, and QuickChart API 🚀
+# MakeChart: Lightning-Fast Chart Generation with React, Vite, and QuickChart API 🚀
 
 ## Project Overview
 
-CharGen is a blazing-fast chart generation project built using React and Vite, with sleek styling powered by Tailwind CSS for a seamless development experience. The combination of these technologies enhances productivity and ensures a smooth development workflow.
+MakeChart is a blazing-fast chart generation project built using React and Vite, with sleek styling powered by Tailwind CSS for a seamless development experience. The combination of these technologies enhances productivity and ensures a smooth development workflow.
 
 ### React: Boosting Productivity with Components and Hooks
 
@@ -22,6 +22,6 @@ We leverage the QuickChart API to seamlessly integrate a variety of charting opt
 
 ## Integration with API
 
-After the Vite bundler, we seamlessly integrate the QuickChart API to empower CharGen with diverse charting capabilities. This integration opens up a world of possibilities, enabling us to create visually stunning and informative charts with just a few lines of code.
+After the Vite bundler, we seamlessly integrate the QuickChart API to empower MakeChart with diverse charting capabilities. This integration opens up a world of possibilities, enabling us to create visually stunning and informative charts with just a few lines of code.
 
-CharGen makes chart generation a breeze, combining the strengths of React and Vite for a lightning-fast and efficient development experience. Dive into the codebase, explore the components, and witness the seamless synergy of these technologies in action. Happy charting! 📊✨
+MakeChart makes chart generation a breeze, combining the strengths of React and Vite for a lightning-fast and efficient development experience. Dive into the codebase, explore the components, and witness the seamless synergy of these technologies in action. Happy charting! 📊✨

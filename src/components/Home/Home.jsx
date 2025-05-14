@@ -85,7 +85,7 @@ export default function Home() {
     <>
       <div className=" text-white">
         <h1 className="text-3xl font-bold my-10 text-center">
-          CharGen: Lightning-Fast Chart Generation with React, Vite, and
+          MakeChart: Lightning-Fast Chart Generation with React, Vite, and
           QuickChart API 🚀
         </h1>
         <h2 className=" text-white text-xl sm:text-2xl font-mono px-4 mt-4">

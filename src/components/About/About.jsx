@@ -4,14 +4,14 @@ export default function About() {
   return (
     <div className=" text-white font-sans">
       <h1 className="text-4xl font-bold mb-6 m-4">
-        CharGen: Lightning-Fast Chart Generation with React, Vite, and
+        MakeChart: Lightning-Fast Chart Generation with React, Vite, and
         QuickChart API 🚀
       </h1>
 
       <p className="mb-4">Project Overview</p>
 
       <p className="mb-4">
-        CharGen is a blazing-fast chart generation project built using React and
+        MakeChart is a blazing-fast chart generation project built using React and
         Vite, with sleek styling powered by Tailwind CSS for a seamless
         development experience. The combination of these technologies enhances
         productivity and ensures a smooth development workflow.
@@ -64,13 +64,13 @@ export default function About() {
 
       <p className="mb-4">
         After the Vite bundler, we seamlessly integrate the QuickChart API to
-        empower CharGen with diverse charting capabilities. This integration
+        empower MakeChart with diverse charting capabilities. This integration
         opens up a world of possibilities, enabling us to create visually
         stunning and informative charts with just a few lines of code.
       </p>
 
       <p className="mt-6">
-        CharGen makes chart generation a breeze, combining the strengths of
+        MakeChart makes chart generation a breeze, combining the strengths of
         React and Vite for a lightning-fast and efficient development
         experience. Dive into the codebase, explore the components, and witness
         the seamless synergy of these technologies in action. Happy charting!
